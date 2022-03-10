@@ -1,6 +1,6 @@
 ### ようこそ👋, Enjoy your stay :D
 ---------------------------------
->~~そそるぜこれは~~
+>`_そそるぜこれは_`
 <!--
 
 Here are some ideas to get you started:
