@@ -1,4 +1,4 @@
-### ようこそ👋, Enjoy your stay :D
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ようこそ👋,+Enjoy+your+stay+:D)](https://git.io/typing-svg)
 ---
 ![20210219_222513](https://user-images.githubusercontent.com/47914146/157880294-8a72c2d4-242d-400f-9023-ed6a2dc8ddbe.jpg)
 --
